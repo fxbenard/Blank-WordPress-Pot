@@ -29,7 +29,7 @@ In a few clicks your WordPress's plugin or extension will be ready to incorporat
 
 1. Create the languages folder right at the base of your root folder.
 2. Put Blank-WordPress.pot and the HowTo file inside.
-3. Rename it with the slug of your plugin or extension.
+3. Rename Blank-WordPress.pot with the slug of your plugin or extension.
 4. In catalog -> preferences -> settings : change the properties to match your WordPress file name -> ok.
 5. Push the update button in poedit main ui to fetch and update the translated strings.
 6. Save (if a notice ask you to pick a language just pick "none of this").
