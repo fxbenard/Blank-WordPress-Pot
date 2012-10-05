@@ -1,12 +1,13 @@
 # Blank WordPress Pot #
 
-Author URI: http://fxbenard.com  
-Contributors: Fx Bénard aka FxB   
-Tags: i18n, translation, blank, pot  
-Requires at least: WordPress  
-Tested up to: 3.4.2  
-Stable tag: 0.1.    
-License: GPLv3 or Later.  
+Author URI: http://fxbenard.com
+Contributors: Fx Bénard aka FxB
+Donate link: 
+Tags: i18n, translation, blank, pot
+Requires at least: WordPress
+Tested up to: 3.4.2
+Stable tag: 0.1.
+License: GPLv3 or Later.
 
 Blank WordPress Pot allows developpers to have a great starting point for their translations pot files.
 
