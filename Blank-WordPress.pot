@@ -1,3 +1,6 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distrubuted under the GPL-2.0+
 msgid ""
 msgstr ""
 "Project-Id-Version: WordPress Blank Pot\n"
