@@ -3,7 +3,7 @@
 # This file is distrubuted under the GPL-2.0+
 msgid ""
 msgstr ""
-"Project-Id-Version: WordPress Blank Pot\n"
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
 "POT-Creation-Date: 2012-10-05 10:50+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: FxB <fx@fxbenard.com>\n"
