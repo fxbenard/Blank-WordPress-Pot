@@ -1,11 +1,11 @@
 # Blank WordPress Pot #
 
 Author URI: http://fxbenard.com
-Contributors: Fx Bénard aka FxB
+Contributors: FX Bénard | FxB
 Donate link: http://fxbenard.com/downloads/blank-wordpress-pot/
 Tags: i18n, translation, blank, pot
 Requires at least: WordPress
-Tested up to: 3.8.2
+Tested up to: 4.1
 Stable tag: 0.1.
 License: GPLv3 or Later.
 
