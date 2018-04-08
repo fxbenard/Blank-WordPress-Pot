@@ -6,7 +6,7 @@ Tags: i18n, translation, blank, pot
 Requires at least: WordPress
 Tested up to: 4.1
 Stable tag: 0.1.
-License: GPLv3 or Later.
+License: GNU General Public License v3 or later.
 
 Blank WordPress Pot allows developers to have a great starting point for their translations' pot files and translators an explanation how to use the file.
 
